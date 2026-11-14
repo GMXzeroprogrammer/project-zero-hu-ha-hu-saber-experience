@@ -67,3 +67,8 @@ See [CHANGELOG.md](CHANGELOG.md) in English or [CHANGELOG.pt-BR.md](CHANGELOG.pt
 - **Programming support:** **Claude (Anthropic)**, as noted by the original project.
 
 This is a noncommercial, unofficial fan modification. It is not affiliated with or endorsed by Capcom, Justin3009, or the sprite artist. Attribution does not imply licensing or endorsement. Please respect the original authors' rights when redistributing or building on their work.
+
+
+## Latest development: v1.8b
+
+The v1.8b update adds Zero's upward saber attack (**Up + Y**) and further boss-combat fixes. The v1.8b IPS release files are being prepared for publication. Until they are uploaded, existing v1.7b files remain the last downloadable patches in this repository.
