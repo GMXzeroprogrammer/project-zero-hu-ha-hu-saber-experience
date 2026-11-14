@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## Atualização em desenvolvimento v1.8b
+
+- **Cima + Y (no chão):** novo ataque ascendente do sabre de Zero, inspirado no Ryuenjin.
+- A v1.8 corrige o funcionamento da barra roxa de vida dos chefes, incluindo dano, fraquezas e intervalos de invencibilidade.
+- As versões v1.7c até v1.7k também trouxeram melhorias nas trocas de personagens durante chefes, armas especiais, Boss Rush e estabilidade.
+- **Atenção:** os patches v1.8b ainda não foram publicados aqui. Os arquivos IPS disponíveis são da v1.7b.
+
 ## v1.7b
 - O combo de 3 golpes no chao agora e feito PARADO, como no X4-X6
   (o 2o e o 3o golpe nao avancam mais para frente).
