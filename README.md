@@ -68,7 +68,11 @@ See [CHANGELOG.md](CHANGELOG.md) in English or [CHANGELOG.pt-BR.md](CHANGELOG.pt
 
 This is a noncommercial, unofficial fan modification. It is not affiliated with or endorsed by Capcom, Justin3009, or the sprite artist. Attribution does not imply licensing or endorsement. Please respect the original authors' rights when redistributing or building on their work.
 
+## v1.8b development update
 
-## Latest development: v1.8b
+- **Up + Y (grounded):** Zero's new rising saber attack, inspired by Ryuenjin.
+- Recent v1.8 work fixes purple boss-health handling, damage, weakness interactions and invulnerability frames.
+- The v1.7c–v1.7k series also brings improvements to switching in boss fights, special-weapon controls, Boss Rush and stability.
+- **Release note:** v1.8b patch files are not yet hosted here. Existing IPS downloads are v1.7b. Do not apply those expecting v1.8b.
 
-The v1.8b update adds Zero's upward saber attack (**Up + Y**) and further boss-combat fixes. The v1.8b IPS release files are being prepared for publication. Until they are uploaded, existing v1.7b files remain the last downloadable patches in this repository.
+[Project page](docs/index.html)
