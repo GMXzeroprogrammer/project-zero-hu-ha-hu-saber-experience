@@ -67,3 +67,12 @@ Veja o [CHANGELOG.md](CHANGELOG.md) em inglês ou o [CHANGELOG.pt-BR.md](CHANGEL
 - **Apoio na programação:** **Claude (Anthropic)**, conforme os créditos do projeto original.
 
 Esta é uma modificação de fã, não comercial e não oficial. Não é afiliada à Capcom, ao Justin3009 nem ao autor dos sprites. Os créditos não representam uma licença ou endosso. Respeite os direitos dos autores originais ao distribuir ou reutilizar o projeto.
+
+## Atualização em desenvolvimento v1.8b
+
+- **Cima + Y (no chão):** novo ataque ascendente do sabre de Zero, inspirado no Ryuenjin.
+- A v1.8 corrige o funcionamento da barra roxa de vida dos chefes, incluindo dano, fraquezas e intervalos de invencibilidade.
+- As versões v1.7c até v1.7k também trouxeram melhorias nas trocas de personagens durante chefes, armas especiais, Boss Rush e estabilidade.
+- **Atenção:** os patches v1.8b ainda não foram publicados aqui. Os arquivos IPS disponíveis são da v1.7b.
+
+[Página do projeto](docs/index.html)
