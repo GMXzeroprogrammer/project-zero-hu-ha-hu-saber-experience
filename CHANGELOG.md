@@ -2,6 +2,13 @@
 
 [Português (Brasil)](CHANGELOG.pt-BR.md) | [Back to README](README.md)
 
+## v1.8b development update
+
+- **Up + Y (grounded):** Zero's new rising saber attack, inspired by Ryuenjin.
+- Recent v1.8 work fixes purple boss-health handling, damage, weakness interactions and invulnerability frames.
+- The v1.7c–v1.7k series also brings improvements to switching in boss fights, special-weapon controls, Boss Rush and stability.
+- **Release note:** v1.8b patch files are not yet hosted here. Existing IPS downloads are v1.7b. Do not apply those expecting v1.8b.
+
 ## v1.7b
 - Zero's three-hit ground saber combo is now performed **in place**, like in X4-X6. Hits two and three no longer move Zero forward.
 
